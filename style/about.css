@@ -1,0 +1,45 @@
+.backer{
+    margin-top:0px;
+    margin-left:0px;
+}
+
+.back{
+    width: 70px;
+    height: 70px;
+    background-color: ;
+    
+}
+.logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px ;
+    height: 70px;    
+}
+.logo-title{
+    text-align:center;
+    border-bottom: 5px solid black;
+    padding-bottom:20px;
+    margin-bottom: 100px;
+}
+.aboutone{
+    padding-left:30px;
+    font-weight:bold; 
+    display:inline-block;
+    font-size:33px;   
+}
+
+img{
+    width: 60px;
+    height: 60px;
+    margin-bottom:-15px;
+}
+.link{
+    display:inline-block;
+    font-weight:bold;
+    padding-left:30px;
+}
+a{
+    text-decoration:none;
+}

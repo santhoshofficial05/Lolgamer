@@ -1,0 +1,39 @@
+.backer{
+    margin-top:0px;
+    margin-left:0px;
+}
+
+.back{
+    width: 70px;
+    height: 70px;
+    background-color: ;
+    
+}
+.logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 70px ;
+    height: 70px;    
+}
+.logo-title{
+    text-align:center;
+    border-bottom: 5px solid black;
+    padding-bottom:20px;
+    margin-bottom: 100px;
+}
+.main{
+    text-align:center;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+.para{
+    font-weight:bold;
+    font-size:40px;
+}
